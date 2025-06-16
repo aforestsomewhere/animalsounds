@@ -2,7 +2,7 @@
 % Please edit documentation in R/animal_sounds.R
 \name{animal_sounds}
 \alias{animal_sounds}
-\title{Match the animal to the sound}
+\title{Print the sound that an animal makes}
 \usage{
 animal_sounds(animal, sound)
 }
@@ -15,11 +15,16 @@ animal_sounds(animal, sound)
 A string concatentating the given animal and sound
 }
 \description{
-Match the animal to the sound
+Provides a simple wrapper around \code{\link[=paste0]{paste0()}}.
+}
+\details{
+Please note that this is a \strong{toy package}!
 }
 \examples{
 animal <- "lion"
 sound <- "roar"
 animal_sounds(animal, sound)
 "The lion goes roar!"
+
+
 }
