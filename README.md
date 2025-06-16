@@ -7,6 +7,10 @@ output:
 # animalsounds
 
 <!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+![Platform: Linux](https://img.shields.io/badge/platform-Linux-brightgreen)
+![Purpose: Educational](https://img.shields.io/badge/purpose-educational-lightgrey)
 <!-- badges: end -->
 
 IMPORTANT! This is a toy package, developed during the [Forwards R Package Development Workshop](https://forwards.github.io/package-dev/workshops/summer-2025-cohort-1.html)

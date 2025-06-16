@@ -2,6 +2,8 @@
 #'
 #'Provides a simple wrapper around [paste0()].
 #'
+#' `r lifecycle::badge('experimental')`
+#'
 #'Please note that this is a **toy package**!
 #'
 #' @param animal A character string, representing an animal
