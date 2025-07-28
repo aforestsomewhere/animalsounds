@@ -4,20 +4,21 @@
 \name{animalsounds-package}
 \alias{animalsounds}
 \alias{animalsounds-package}
-\title{animalsounds: What the Package Does (One Line, Title Case)}
+\title{animalsounds: Prints the Sounds that Animals Make}
 \description{
-What the package does (one paragraph).
+TOY PACKAGE for RForwards 2025. (Simple wrapper around paste0 to generate some animal sounds!).
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://github.com/aforestsomewhere/animalsounds}
+  \item \url{https://aforestsomewhere.github.io/animalsounds/}
   \item Report bugs at \url{https://github.com/aforestsomewhere/animalsounds/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: A. Kate O'Mahony \email{katie.fala@teagasc.ie} (\href{https://orcid.org/0000-0001-7589-0341}{ORCID})
 
 }
 \keyword{internal}
