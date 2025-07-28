@@ -1,0 +1,10 @@
+pandoc: 3.1.11
+pkgdown: 2.1.3
+pkgdown_sha: ~
+articles:
+  articles/my-article: my-article.html
+  name: name.html
+last_built: 2025-07-28T10:02Z
+urls:
+  reference: https://aforestsomewhere.github.io/animalsounds/reference
+  article: https://aforestsomewhere.github.io/animalsounds/articles
