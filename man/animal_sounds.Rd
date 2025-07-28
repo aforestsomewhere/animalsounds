@@ -18,6 +18,8 @@ A string concatentating the given animal and sound
 Provides a simple wrapper around \code{\link[=paste0]{paste0()}}.
 }
 \details{
+\ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#experimental}{\figure{lifecycle-experimental.svg}{options: alt='[Experimental]'}}}{\strong{[Experimental]}}
+
 Please note that this is a \strong{toy package}!
 }
 \examples{
